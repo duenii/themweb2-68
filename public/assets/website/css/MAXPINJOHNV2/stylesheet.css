@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'MAX PINJOHNV2';
+    src: url('MAXPINJOHNV2.woff2') format('woff2'),
+        url('MAXPINJOHNV2.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
